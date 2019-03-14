@@ -1,0 +1,13 @@
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.exe.config
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.exe
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.pdb
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.csprojResolveAssemblyReference.cache
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.exe
+D:\蒋勤勤\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.pdb
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.exe.config
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.exe
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\bin\Debug\JQQ.EngineerManageSystem.pdb
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.csprojAssemblyReference.cache
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.csproj.CoreCompileInputs.cache
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.exe
+D:\2019皇家工程\作业\三月\JQQ.EngineerManageSystem\JQQ.EngineerManageSystem\obj\Debug\JQQ.EngineerManageSystem.pdb
